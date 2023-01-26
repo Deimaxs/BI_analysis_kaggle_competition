@@ -21,11 +21,11 @@ El proyecto busca realizar la limpieza, procesamiento y análisis de un conjunto
 
 * Resultados:
 
-![Image base](captura1.PNG?raw=true)
+![Image1](examples/Captura1.PNG?raw=true)
 
-![Image base](captura2.PNG?raw=true)
+![Image2](examples/Captura2.PNG?raw=true)
 
-[![Video](Captura3.PNG)](Video_BI.mp4)
+![Image3](examples/Captura3.PNG?raw=true)
 
 Este script hace uso de librerías y frameworks tales como pandas, seaborn, plotly, entre otros.
 
